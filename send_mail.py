@@ -7,10 +7,10 @@ from email.utils import parseaddr, formataddr
 import smtplib
 
 
-from_addr = '****@163.com'
-password = '***'
-to_addr = '****@qq.com'
-cc_addr = '****@qq.com'
+from_addr = 'sch_0221@163.com'
+password = 'O84FbyUK'
+to_addr = '337065098@qq.com'
+cc_addr = '690420753@qq.com'
 smtp_server = 'smtp.163.com'
 
 def _format_addr(s):
