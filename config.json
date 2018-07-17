@@ -1,0 +1,16 @@
+[
+  {
+    "DCity1":"HGH",
+    "ACity1":"XNN",
+    "SearchType":"S",
+    "DDate1":"2018-09-20",
+    "IsNearAirportRecommond":"0"
+  },
+  {
+    "DCity1":"XNN",
+    "ACity1":"SHA",
+    "SearchType":"S",
+    "DDate1":"2018-09-25",
+    "IsNearAirportRecommond":"0"
+  }
+]
